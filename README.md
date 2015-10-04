@@ -1,4 +1,4 @@
-# Wanderlei Color Scheme
+## Wanderlei Color Scheme
 
 A harmonious dark-themed color scheme for [Sublime Text 3](https://packagecontrol.io/). This scheme is based on the beautiful [predawn](https://github.com/jamiewilson/predawn) color scheme by [Jamie Wilson](http://jamiewilson.io/) with influences from Monokai.
 
@@ -6,8 +6,11 @@ Wanderlei is optimized for app and web development with an emphasis on Javascrip
 
 ### Preview
 
+##### JS
 ![Screenshot](https://raw.github.com/jeremysaks/wanderlei-color-scheme/master/preview/js-min.png)
+##### CSS
 ![Screenshot](https://raw.github.com/jeremysaks/wanderlei-color-scheme/master/preview/css-min.png)
+##### HTML
 ![Screenshot](https://raw.github.com/jeremysaks/wanderlei-color-scheme/master/preview/html-min.png)
 
 ### Installation
@@ -19,7 +22,7 @@ Wanderlei is optimized for app and web development with an emphasis on Javascrip
 
 ### Issues
 
-This scheme was not developed for a wide range of languages but feel free to submit pull requests. Wanderlei is a color scheme only.
+This scheme was not developed for a wide range of languages but feel free to submit pull requests. Wanderlei is a color scheme only not a theme.
 
 ### License
 
