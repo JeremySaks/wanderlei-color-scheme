@@ -435,6 +435,18 @@
 				<string>#E68181</string>
 			</dict>
 		</dict>
+		<!-- JAVASCRIPT -->
+		<dict>
+			<key>name</key>
+			<string>Javascript null &amp; undefined</string>
+			<key>scope</key>
+			<string>constant.language.undefined.js, constant.language.null.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C99AED</string>
+			</dict>
+		</dict>
 		<!-- JSON -->
 		<dict>
 			<key>name</key>

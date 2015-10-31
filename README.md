@@ -6,11 +6,11 @@ Wanderlei is optimized for app and web development with an emphasis on Javascrip
 
 ### Preview
 
-##### JS
+##### JS / ES2015
 ![Screenshot](https://raw.github.com/jeremysaks/wanderlei-color-scheme/master/preview/js-min.png)
-##### CSS
+##### CSS / SCSS / LESS
 ![Screenshot](https://raw.github.com/jeremysaks/wanderlei-color-scheme/master/preview/css-min.png)
-##### HTML
+##### HTML / Handlebars
 ![Screenshot](https://raw.github.com/jeremysaks/wanderlei-color-scheme/master/preview/html-min.png)
 
 ### Installation
